@@ -1,0 +1,945 @@
+{
+  "compressionlevel" : -1,
+  "editorsettings" : {
+    "export" : {
+      "target" : "."
+    }
+  },
+  "height" : 25,
+  "infinite" : false,
+  "layers" : [ {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 44, 44, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 44, 44, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 44, 44, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 25,
+    "id" : 2,
+    "name" : "start",
+    "opacity" : 1,
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 25,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 44, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 44, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 25,
+    "id" : 8,
+    "name" : "exit",
+    "opacity" : 1,
+    "properties" : [ {
+      "name" : "exitUrl",
+      "type" : "string",
+      "value" : "rwd-cache-telnet-klartext-reden.maps.at.rc3.world-main.json-2cb7fa05.new.json"
+    } ],
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 25,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 25,
+    "id" : 9,
+    "name" : "minecraftWeb",
+    "opacity" : 1,
+    "properties" : [ {
+      "name" : "openWebsite",
+      "type" : "string",
+      "value" : "data:text/html;charset=utf-8;base64,PGh0bWw+PGJvZHkgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6ICMxMDBlMjM7IHRleHQtYWxpZ246IGNlbnRlcjsgZm9udC1mYW1pbHk6IE1vbnRzZXJyYXQsIEFyaWFsLCBzYW5zLXNlcmlmOyBjb2xvcjogI2ZmZmZmZjsiPjxzdHlsZT48L3N0eWxlPjxoMz5EdSB2ZXJsw6Rzc3QgZ2VyYWRlIGRhcyDCu1JDMy1HZWzDpG5kZcKrIGF1ZiBkaWUgVVJMPC9oMz48cCBzdHlsZT0iZm9udC1zaXplOiAyNHB4OyBmb250LXdlaWdodDogYm9sZDsgZm9udC1mYW1pbHk6IG1vbm9zcGFjZTsiPjxhIGhyZWY9Imh0dHBzOi8vdGVsbmV0LmtsYXJ0ZXh0LXJlZGVuLm5ldC9raWRzc3BhY2UuaHRtbCIgc3R5bGU9ImNvbG9yOiAjZmZmZmZmIj5odHRwczovL3RlbG5ldC5rbGFydGV4dC1yZWRlbi5uZXQva2lkc3NwYWNlLmh0bWw8L2E+PC9wPjwvYm9keT48L2h0bWw+"
+    } ],
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 25,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 44, 44, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 44, 44, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 0, 44, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 44, 44, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 25,
+    "id" : 6,
+    "name" : "audiogroot",
+    "opacity" : 1,
+    "properties" : [ {
+      "name" : "playAudio",
+      "type" : "string",
+      "value" : "rwd-cache-telnet-klartext-reden.maps.at.rc3.world-audio-grootaudio.mp3-d9b492b9.mp3"
+    } ],
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 25,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 44, 44, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 44, 44, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 0, 44, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 44, 44, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 25,
+    "id" : 7,
+    "name" : "audiobatman",
+    "opacity" : 1,
+    "properties" : [ {
+      "name" : "playAudio",
+      "type" : "string",
+      "value" : "rwd-cache-telnet-klartext-reden.maps.at.rc3.world-audio-batmanaudio.mp3-f0c36cf9.mp3"
+    } ],
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 25,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, 26, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, 26, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 25,
+    "id" : 5,
+    "name" : "decoration",
+    "opacity" : 1,
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 25,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 129, 18, 18, 18, 18, 18, 1, 1, 10, 113, 10, 10, 10, 10, 1, 22, 24, 24, 24, 24, 22, 1, 0, 0, 1, 19, 19, 19, 19, 19, 19, 1, 1, 10, 14, 14, 14, 14, 10, 1, 24, 24, 24, 24, 24, 24, 1, 0, 0, 1, 20, 20, 20, 20, 20, 20, 1, 1, 10, 2, 4, 6, 8, 12, 1, 24, 24, 24, 24, 24, 24, 1, 0, 0, 1, 20, 20, 20, 20, 20, 20, 1, 1, 10, 3, 5, 7, 9, 12, 1, 24, 24, 24, 22, 24, 24, 1, 0, 0, 1, 20, 20, 20, 20, 20, 20, 1, 1, 10, 13, 13, 13, 13, 10, 1, 24, 24, 24, 24, 24, 24, 1, 0, 0, 1, 20, 20, 20, 20, 20, 20, 1, 1, 10, 10, 10, 10, 10, 10, 1, 23, 24, 24, 24, 24, 23, 1, 1, 1, 1, 1, 1, 20, 20, 1, 1, 1, 1, 1, 1, 10, 10, 1, 1, 1, 1, 1, 23, 23, 1, 1, 1, 1, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 1, 1, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 1, 1, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 1, 1, 0, 0, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 1, 1, 26, 0, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 1, 1, 0, 0, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 1, 1, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 1, 1, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 1, 1, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 1, 1, 1, 1, 1, 1, 1, 1, 30, 30, 1, 1, 1, 30, 30, 30, 1, 1, 1, 1, 1, 1, 30, 1, 1, 1, 1, 109, 109, 30, 30, 30, 30, 30, 30, 109, 109, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 1, 1, 109, 109, 30, 109, 30, 109, 109, 109, 109, 109, 30, 30, 47, 53, 30, 30, 30, 30, 30, 30, 30, 30, 30, 1, 1, 109, 109, 30, 109, 30, 30, 30, 109, 30, 109, 30, 30, 63, 59, 30, 30, 30, 30, 30, 30, 30, 30, 30, 1, 1, 109, 109, 30, 109, 109, 109, 30, 109, 30, 109, 30, 30, 30, 30, 30, 30, 30, 30, 46, 30, 30, 30, 43, 1, 1, 109, 109, 30, 30, 30, 109, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 1, 1, 109, 109, 109, 109, 109, 109, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
+    "height" : 25,
+    "id" : 1,
+    "name" : "bottom",
+    "opacity" : 1,
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 25,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 329, 330, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 360, 361, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 25,
+    "id" : 10,
+    "name" : "onjects",
+    "opacity" : 1,
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 25,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "draworder" : "topdown",
+    "id" : 3,
+    "name" : "floorLayer",
+    "objects" : [ ],
+    "opacity" : 1,
+    "type" : "objectgroup",
+    "visible" : true,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 114, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 67, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 45, 0, 0, 0, 42, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 25,
+    "id" : 4,
+    "name" : "top",
+    "opacity" : 1,
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 25,
+    "x" : 0,
+    "y" : 0
+  } ],
+  "nextlayerid" : 11,
+  "nextobjectid" : 1,
+  "orientation" : "orthogonal",
+  "renderorder" : "right-down",
+  "tiledversion" : "1.4.3",
+  "tileheight" : 32,
+  "tilesets" : [ {
+    "columns" : 1,
+    "firstgid" : 1,
+    "image" : "rwd-cache-telnet-klartext-reden.maps.at.rc3.world-images-rc3oakplanks.png-76d8424d.png",
+    "imageheight" : 32,
+    "imagewidth" : 32,
+    "margin" : 0,
+    "name" : "rC3oakplanks",
+    "properties" : [ {
+      "name" : "collides",
+      "type" : "bool",
+      "value" : true
+    } ],
+    "spacing" : 0,
+    "tilecount" : 1,
+    "tileheight" : 32,
+    "tiles" : [ {
+      "id" : 0,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    } ],
+    "tilewidth" : 32
+  }, {
+    "columns" : 4,
+    "firstgid" : 2,
+    "image" : "rwd-cache-telnet-klartext-reden.maps.at.rc3.world-images-rc3-legotepich.png-26583537.png",
+    "imageheight" : 128,
+    "imagewidth" : 128,
+    "margin" : 0,
+    "name" : "rc3-Legotepich",
+    "spacing" : 0,
+    "tilecount" : 16,
+    "tileheight" : 32,
+    "tilewidth" : 32
+  }, {
+    "columns" : 2,
+    "firstgid" : 18,
+    "image" : "rwd-cache-telnet-klartext-reden.maps.at.rc3.world-images-rc3-minecraftteppich.png-e5fafb72.png",
+    "imageheight" : 64,
+    "imagewidth" : 64,
+    "margin" : 0,
+    "name" : "rc3-Minecraftteppich",
+    "spacing" : 0,
+    "tilecount" : 4,
+    "tileheight" : 32,
+    "tilewidth" : 32
+  }, {
+    "columns" : 2,
+    "firstgid" : 22,
+    "image" : "rwd-cache-telnet-klartext-reden.maps.at.rc3.world-images-rc3-technikraumteppich.png-826ca669.png",
+    "imageheight" : 64,
+    "imagewidth" : 64,
+    "margin" : 0,
+    "name" : "rc3-technikraumteppich",
+    "spacing" : 0,
+    "tilecount" : 4,
+    "tileheight" : 32,
+    "tilewidth" : 32
+  }, {
+    "columns" : 2,
+    "firstgid" : 26,
+    "image" : "rwd-cache-telnet-klartext-reden.maps.at.rc3.world-images-starbottem.png-6fd61736.png",
+    "imageheight" : 64,
+    "imagewidth" : 64,
+    "margin" : 0,
+    "name" : "starbottem",
+    "spacing" : 0,
+    "tilecount" : 4,
+    "tileheight" : 32,
+    "tiles" : [ {
+      "animation" : [ {
+        "duration" : 2000,
+        "tileid" : 0
+      }, {
+        "duration" : 2000,
+        "tileid" : 1
+      }, {
+        "duration" : 2000,
+        "tileid" : 2
+      }, {
+        "duration" : 2000,
+        "tileid" : 3
+      } ],
+      "id" : 0
+    } ],
+    "tilewidth" : 32
+  }, {
+    "columns" : 3,
+    "firstgid" : 30,
+    "image" : "rwd-cache-telnet-klartext-reden.maps.at.rc3.world-animation-rc3-grassboden.png-6af5f2b7.png",
+    "imageheight" : 128,
+    "imagewidth" : 96,
+    "margin" : 0,
+    "name" : "rC3_GrassBoden",
+    "spacing" : 0,
+    "tilecount" : 12,
+    "tileheight" : 32,
+    "tiles" : [ {
+      "animation" : [ {
+        "duration" : 200,
+        "tileid" : 0
+      }, {
+        "duration" : 200,
+        "tileid" : 1
+      }, {
+        "duration" : 200,
+        "tileid" : 2
+      }, {
+        "duration" : 200,
+        "tileid" : 3
+      }, {
+        "duration" : 200,
+        "tileid" : 4
+      }, {
+        "duration" : 200,
+        "tileid" : 5
+      }, {
+        "duration" : 200,
+        "tileid" : 6
+      }, {
+        "duration" : 200,
+        "tileid" : 7
+      }, {
+        "duration" : 200,
+        "tileid" : 8
+      }, {
+        "duration" : 200,
+        "tileid" : 9
+      }, {
+        "duration" : 200,
+        "tileid" : 0
+      } ],
+      "id" : 0
+    } ],
+    "tilewidth" : 32
+  }, {
+    "columns" : 1,
+    "firstgid" : 42,
+    "image" : "rwd-cache-telnet-klartext-reden.maps.at.rc3.world-images-batman.png-ecd74fdd.png",
+    "imageheight" : 64,
+    "imagewidth" : 32,
+    "margin" : 0,
+    "name" : "batman",
+    "spacing" : 0,
+    "tilecount" : 2,
+    "tileheight" : 32,
+    "tiles" : [ {
+      "id" : 1,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    } ],
+    "tilewidth" : 32
+  }, {
+    "columns" : 1,
+    "firstgid" : 44,
+    "image" : "rwd-cache-telnet-klartext-reden.maps.at.rc3.world-images-rc3-black.png-db54784b.png",
+    "imageheight" : 32,
+    "imagewidth" : 32,
+    "margin" : 0,
+    "name" : "rc3-black",
+    "spacing" : 0,
+    "tilecount" : 1,
+    "tileheight" : 32,
+    "tilewidth" : 32
+  }, {
+    "columns" : 1,
+    "firstgid" : 45,
+    "image" : "rwd-cache-telnet-klartext-reden.maps.at.rc3.world-images-groot.png-58ba33c3.png",
+    "imageheight" : 64,
+    "imagewidth" : 32,
+    "margin" : 0,
+    "name" : "groot",
+    "spacing" : 0,
+    "tilecount" : 2,
+    "tileheight" : 32,
+    "tiles" : [ {
+      "id" : 1,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    } ],
+    "tilewidth" : 32
+  }, {
+    "columns" : 2,
+    "firstgid" : 47,
+    "image" : "rwd-cache-telnet-klartext-reden.maps.at.rc3.world-images-rc3-brunnen1.png-eb168437.png",
+    "imageheight" : 96,
+    "imagewidth" : 64,
+    "margin" : 0,
+    "name" : "rc3-Brunnen1",
+    "spacing" : 0,
+    "tilecount" : 6,
+    "tileheight" : 32,
+    "tiles" : [ {
+      "animation" : [ {
+        "duration" : 1000,
+        "tileid" : 0
+      }, {
+        "duration" : 1000,
+        "tileid" : 1
+      }, {
+        "duration" : 1000,
+        "tileid" : 2
+      }, {
+        "duration" : 1000,
+        "tileid" : 3
+      }, {
+        "duration" : 1000,
+        "tileid" : 4
+      }, {
+        "duration" : 1000,
+        "tileid" : 5
+      } ],
+      "id" : 0,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 1,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 2,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 3,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 4,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 5,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    } ],
+    "tilewidth" : 32
+  }, {
+    "columns" : 2,
+    "firstgid" : 53,
+    "image" : "rwd-cache-telnet-klartext-reden.maps.at.rc3.world-images-rc3-brunnen2.png-c61756a2.png",
+    "imageheight" : 96,
+    "imagewidth" : 64,
+    "margin" : 0,
+    "name" : "rc3-brunnen2",
+    "spacing" : 0,
+    "tilecount" : 6,
+    "tileheight" : 32,
+    "tiles" : [ {
+      "animation" : [ {
+        "duration" : 1000,
+        "tileid" : 0
+      }, {
+        "duration" : 1000,
+        "tileid" : 1
+      }, {
+        "duration" : 1000,
+        "tileid" : 2
+      }, {
+        "duration" : 1000,
+        "tileid" : 3
+      }, {
+        "duration" : 1000,
+        "tileid" : 4
+      } ],
+      "id" : 0,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 1,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 2,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 3,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 4,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    } ],
+    "tilewidth" : 32
+  }, {
+    "columns" : 2,
+    "firstgid" : 59,
+    "image" : "rwd-cache-telnet-klartext-reden.maps.at.rc3.world-images-rc3-brunnen3.png-52c3018b.png",
+    "imageheight" : 64,
+    "imagewidth" : 64,
+    "margin" : 0,
+    "name" : "rc3-brunnen3",
+    "spacing" : 0,
+    "tilecount" : 4,
+    "tileheight" : 32,
+    "tiles" : [ {
+      "animation" : [ {
+        "duration" : 1000,
+        "tileid" : 0
+      }, {
+        "duration" : 1000,
+        "tileid" : 1
+      }, {
+        "duration" : 1000,
+        "tileid" : 2
+      }, {
+        "duration" : 1000,
+        "tileid" : 3
+      } ],
+      "id" : 0,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 1,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 2,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 3,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    } ],
+    "tilewidth" : 32
+  }, {
+    "columns" : 2,
+    "firstgid" : 63,
+    "image" : "rwd-cache-telnet-klartext-reden.maps.at.rc3.world-images-rc3-brunnen4.png-ff371ad6.png",
+    "imageheight" : 64,
+    "imagewidth" : 64,
+    "margin" : 0,
+    "name" : "rc3-brunnen4",
+    "spacing" : 0,
+    "tilecount" : 4,
+    "tileheight" : 32,
+    "tiles" : [ {
+      "animation" : [ {
+        "duration" : 1000,
+        "tileid" : 0
+      }, {
+        "duration" : 1000,
+        "tileid" : 1
+      }, {
+        "duration" : 1000,
+        "tileid" : 2
+      }, {
+        "duration" : 1000,
+        "tileid" : 3
+      } ],
+      "id" : 0,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 1,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 2,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 3,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    } ],
+    "tilewidth" : 32
+  }, {
+    "columns" : 6,
+    "firstgid" : 67,
+    "image" : "rwd-cache-telnet-klartext-reden.maps.at.rc3.world-images-tafel-kid.png-1ca0803c.png",
+    "imageheight" : 224,
+    "imagewidth" : 192,
+    "margin" : 0,
+    "name" : "Tafel-kid",
+    "spacing" : 0,
+    "tilecount" : 42,
+    "tileheight" : 32,
+    "tiles" : [ {
+      "animation" : [ {
+        "duration" : 100,
+        "tileid" : 0
+      }, {
+        "duration" : 100,
+        "tileid" : 1
+      }, {
+        "duration" : 100,
+        "tileid" : 2
+      }, {
+        "duration" : 100,
+        "tileid" : 3
+      }, {
+        "duration" : 100,
+        "tileid" : 4
+      }, {
+        "duration" : 100,
+        "tileid" : 5
+      }, {
+        "duration" : 100,
+        "tileid" : 6
+      }, {
+        "duration" : 100,
+        "tileid" : 7
+      }, {
+        "duration" : 100,
+        "tileid" : 8
+      }, {
+        "duration" : 100,
+        "tileid" : 9
+      }, {
+        "duration" : 100,
+        "tileid" : 10
+      }, {
+        "duration" : 100,
+        "tileid" : 11
+      }, {
+        "duration" : 100,
+        "tileid" : 12
+      }, {
+        "duration" : 100,
+        "tileid" : 13
+      }, {
+        "duration" : 100,
+        "tileid" : 14
+      }, {
+        "duration" : 100,
+        "tileid" : 15
+      }, {
+        "duration" : 100,
+        "tileid" : 16
+      }, {
+        "duration" : 100,
+        "tileid" : 17
+      }, {
+        "duration" : 100,
+        "tileid" : 18
+      }, {
+        "duration" : 100,
+        "tileid" : 19
+      }, {
+        "duration" : 100,
+        "tileid" : 20
+      }, {
+        "duration" : 100,
+        "tileid" : 21
+      }, {
+        "duration" : 100,
+        "tileid" : 22
+      }, {
+        "duration" : 100,
+        "tileid" : 23
+      }, {
+        "duration" : 100,
+        "tileid" : 24
+      }, {
+        "duration" : 100,
+        "tileid" : 25
+      }, {
+        "duration" : 100,
+        "tileid" : 26
+      }, {
+        "duration" : 100,
+        "tileid" : 27
+      }, {
+        "duration" : 100,
+        "tileid" : 28
+      }, {
+        "duration" : 100,
+        "tileid" : 29
+      }, {
+        "duration" : 100,
+        "tileid" : 30
+      }, {
+        "duration" : 100,
+        "tileid" : 31
+      }, {
+        "duration" : 100,
+        "tileid" : 32
+      }, {
+        "duration" : 100,
+        "tileid" : 33
+      }, {
+        "duration" : 100,
+        "tileid" : 34
+      }, {
+        "duration" : 100,
+        "tileid" : 35
+      }, {
+        "duration" : 100,
+        "tileid" : 36
+      }, {
+        "duration" : 100,
+        "tileid" : 37
+      }, {
+        "duration" : 100,
+        "tileid" : 38
+      }, {
+        "duration" : 100,
+        "tileid" : 39
+      }, {
+        "duration" : 100,
+        "tileid" : 40
+      } ],
+      "id" : 0
+    } ],
+    "tilewidth" : 32
+  }, {
+    "columns" : 2,
+    "firstgid" : 109,
+    "image" : "rwd-cache-telnet-klartext-reden.maps.at.rc3.world-images-hecke.png-65ccc3ca.png",
+    "imageheight" : 64,
+    "imagewidth" : 64,
+    "margin" : 0,
+    "name" : "hecke",
+    "spacing" : 0,
+    "tilecount" : 4,
+    "tileheight" : 32,
+    "tiles" : [ {
+      "animation" : [ {
+        "duration" : 500,
+        "tileid" : 0
+      }, {
+        "duration" : 500,
+        "tileid" : 1
+      }, {
+        "duration" : 500,
+        "tileid" : 2
+      } ],
+      "id" : 0,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 1,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 2,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    } ],
+    "tilewidth" : 32
+  }, {
+    "columns" : 1,
+    "firstgid" : 113,
+    "image" : "rwd-cache-telnet-klartext-reden.maps.at.rc3.world-images-tisch.png-6f62126a.png",
+    "imageheight" : 32,
+    "imagewidth" : 32,
+    "margin" : 0,
+    "name" : "tisch",
+    "spacing" : 0,
+    "tilecount" : 1,
+    "tileheight" : 32,
+    "tiles" : [ {
+      "id" : 0,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    } ],
+    "tilewidth" : 32
+  }, {
+    "columns" : 3,
+    "firstgid" : 114,
+    "image" : "rwd-cache-telnet-klartext-reden.maps.at.rc3.world-images-legowinkekatze.png-c3f6fbee.png",
+    "imageheight" : 96,
+    "imagewidth" : 96,
+    "margin" : 0,
+    "name" : "LegoWinkekatze",
+    "spacing" : 0,
+    "tilecount" : 9,
+    "tileheight" : 32,
+    "tiles" : [ {
+      "animation" : [ {
+        "duration" : 500,
+        "tileid" : 0
+      }, {
+        "duration" : 500,
+        "tileid" : 1
+      }, {
+        "duration" : 500,
+        "tileid" : 2
+      }, {
+        "duration" : 500,
+        "tileid" : 3
+      }, {
+        "duration" : 500,
+        "tileid" : 4
+      }, {
+        "duration" : 500,
+        "tileid" : 5
+      }, {
+        "duration" : 500,
+        "tileid" : 6
+      } ],
+      "id" : 0
+    } ],
+    "tilewidth" : 32
+  }, {
+    "columns" : 2,
+    "firstgid" : 123,
+    "image" : "rwd-cache-telnet-klartext-reden.maps.at.rc3.world-images-rc3-mc-netherportal.png-34e686e1.png",
+    "imageheight" : 96,
+    "imagewidth" : 64,
+    "margin" : 0,
+    "name" : "rC3_MC_Netherportal",
+    "spacing" : 0,
+    "tilecount" : 6,
+    "tileheight" : 32,
+    "tiles" : [ {
+      "animation" : [ {
+        "duration" : 250,
+        "tileid" : 0
+      }, {
+        "duration" : 250,
+        "tileid" : 1
+      }, {
+        "duration" : 250,
+        "tileid" : 2
+      }, {
+        "duration" : 250,
+        "tileid" : 3
+      }, {
+        "duration" : 250,
+        "tileid" : 4
+      } ],
+      "id" : 0
+    } ],
+    "tilewidth" : 32
+  }, {
+    "columns" : 1,
+    "firstgid" : 129,
+    "image" : "rwd-cache-telnet-klartext-reden.maps.at.rc3.world-animation-minecraftenter.png-342dec67.png",
+    "imageheight" : 64,
+    "imagewidth" : 32,
+    "margin" : 0,
+    "name" : "Minecraftenter",
+    "spacing" : 0,
+    "tilecount" : 2,
+    "tileheight" : 32,
+    "tiles" : [ {
+      "animation" : [ {
+        "duration" : 2000,
+        "tileid" : 0
+      }, {
+        "duration" : 2000,
+        "tileid" : 1
+      } ],
+      "id" : 0,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 1,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    } ],
+    "tilewidth" : 32
+  }, {
+    "columns" : 2,
+    "firstgid" : 131,
+    "image" : "rwd-cache-telnet-klartext-reden.maps.at.rc3.world-images-empfang-tisch.png-d9dcc94f.png",
+    "imageheight" : 96,
+    "imagewidth" : 64,
+    "margin" : 0,
+    "name" : "empfang-tisch",
+    "spacing" : 0,
+    "tilecount" : 6,
+    "tileheight" : 32,
+    "tiles" : [ {
+      "id" : 0,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 1,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 2,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 3,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    } ],
+    "tilewidth" : 32
+  }, {
+    "columns" : 31,
+    "firstgid" : 137,
+    "image" : "rwd-cache-telnet-klartext-reden.maps.at.rc3.world-tiles-telnet-tileset-6.png-3bfc4e37.png",
+    "imageheight" : 992,
+    "imagewidth" : 993,
+    "margin" : 0,
+    "name" : "telnet_tileset_6",
+    "spacing" : 0,
+    "tilecount" : 961,
+    "tileheight" : 32,
+    "tilewidth" : 32
+  } ],
+  "tilewidth" : 32,
+  "type" : "map",
+  "version" : 1.4,
+  "width" : 25
+}

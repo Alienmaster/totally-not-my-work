@@ -1,0 +1,207 @@
+{
+  "compressionlevel" : -1,
+  "editorsettings" : {
+    "export" : {
+      "target" : "."
+    }
+  },
+  "height" : 16,
+  "infinite" : false,
+  "layers" : [ {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 16,
+    "id" : 2,
+    "name" : "start",
+    "opacity" : 1,
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 16,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 2, 2, 2, 2, 2, 2, 3, 2, 2, 2, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2, 3, 2, 2, 3, 2, 2, 2, 3, 3, 2, 3, 3, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 3, 3, 2, 2, 2, 2, 2, 2, 2, 3, 2, 2, 3, 2, 2, 2, 3, 3, 2, 2, 2, 2, 2, 2, 3, 2, 2, 2, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 2, 3, 3, 2, 3, 2, 2, 3, 3, 3, 3, 3, 3, 3, 2, 3, 2, 3, 3, 2, 3, 2, 2, 3, 2, 2, 2, 3, 2, 2, 2, 3, 2, 3, 3, 2, 3, 2, 2, 2, 2, 2, 2, 3, 2, 2, 2, 3, 2, 3, 3, 2, 3, 3, 3, 3, 3, 3, 3, 3, 2, 3, 3, 3, 2, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3 ],
+    "height" : 16,
+    "id" : 1,
+    "name" : "main",
+    "opacity" : 1,
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 16,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 16,
+    "id" : 4,
+    "name" : "link",
+    "opacity" : 1,
+    "properties" : [ {
+      "name" : "openWebsite",
+      "type" : "string",
+      "value" : "data:text/html;charset=utf-8;base64,PGh0bWw+PGJvZHkgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6ICMxMDBlMjM7IHRleHQtYWxpZ246IGNlbnRlcjsgZm9udC1mYW1pbHk6IE1vbnRzZXJyYXQsIEFyaWFsLCBzYW5zLXNlcmlmOyBjb2xvcjogI2ZmZmZmZjsiPjxzdHlsZT48L3N0eWxlPjxoMz5EdSB2ZXJsw6Rzc3QgZ2VyYWRlIGRhcyDCu1JDMy1HZWzDpG5kZcKrIGF1ZiBkaWUgVVJMPC9oMz48cCBzdHlsZT0iZm9udC1zaXplOiAyNHB4OyBmb250LXdlaWdodDogYm9sZDsgZm9udC1mYW1pbHk6IG1vbm9zcGFjZTsiPjxhIGhyZWY9Imh0dHBzOi8vcGxvbWxvbXBvbS5jb20vcmMzX3JvZ3VlX2NoYXQuaHRtbCIgc3R5bGU9ImNvbG9yOiAjZmZmZmZmIj5odHRwczovL3Bsb21sb21wb20uY29tL3JjM19yb2d1ZV9jaGF0Lmh0bWw8L2E+PC9wPjwvYm9keT48L2h0bWw+"
+    } ],
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 16,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 16,
+    "id" : 5,
+    "name" : "back",
+    "opacity" : 1,
+    "properties" : [ {
+      "name" : "exitUrl",
+      "type" : "string",
+      "value" : "rwd-cache-cuddlebutt.maps.at.rc3.world-main.json-879b9a89.new.json"
+    } ],
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 16,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 16,
+    "id" : 6,
+    "name" : "exit image",
+    "opacity" : 1,
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 16,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "draworder" : "topdown",
+    "id" : 3,
+    "name" : "floorLayer",
+    "objects" : [ ],
+    "opacity" : 1,
+    "type" : "objectgroup",
+    "visible" : true,
+    "x" : 0,
+    "y" : 0
+  } ],
+  "nextlayerid" : 7,
+  "nextobjectid" : 1,
+  "orientation" : "orthogonal",
+  "renderorder" : "right-down",
+  "tiledversion" : "1.4.2",
+  "tileheight" : 32,
+  "tilesets" : [ {
+    "columns" : 1,
+    "firstgid" : 1,
+    "image" : "rwd-cache-cuddlebutt.maps.at.rc3.world-plom-tiles-tile-questionmark.png-62aa3e82.png",
+    "imageheight" : 32,
+    "imagewidth" : 32,
+    "margin" : 0,
+    "name" : "tile_questionmark",
+    "spacing" : 0,
+    "tilecount" : 1,
+    "tileheight" : 32,
+    "tilewidth" : 32
+  }, {
+    "columns" : 1,
+    "firstgid" : 2,
+    "image" : "rwd-cache-cuddlebutt.maps.at.rc3.world-plom-tiles-tile-dot.png-8ad08ef9.png",
+    "imageheight" : 32,
+    "imagewidth" : 32,
+    "margin" : 0,
+    "name" : "tile_dot",
+    "spacing" : 0,
+    "tilecount" : 1,
+    "tileheight" : 32,
+    "tilewidth" : 32
+  }, {
+    "columns" : 1,
+    "firstgid" : 3,
+    "image" : "rwd-cache-cuddlebutt.maps.at.rc3.world-plom-tiles-tile-hash.png-283e9760.png",
+    "imageheight" : 32,
+    "imagewidth" : 32,
+    "margin" : 0,
+    "name" : "tile_hash",
+    "properties" : [ {
+      "name" : "collides",
+      "type" : "bool",
+      "value" : true
+    } ],
+    "spacing" : 0,
+    "tilecount" : 1,
+    "tileheight" : 32,
+    "tiles" : [ {
+      "id" : 0,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    } ],
+    "tilewidth" : 32
+  }, {
+    "columns" : 1,
+    "firstgid" : 4,
+    "image" : "rwd-cache-cuddlebutt.maps.at.rc3.world-plom-tiles-tile-arrowright.png-e132b884.png",
+    "imageheight" : 32,
+    "imagewidth" : 32,
+    "margin" : 0,
+    "name" : "tile_arrowright",
+    "spacing" : 0,
+    "tilecount" : 1,
+    "tileheight" : 32,
+    "tilewidth" : 32
+  }, {
+    "columns" : 4,
+    "firstgid" : 5,
+    "image" : "rwd-cache-cuddlebutt.maps.at.rc3.world-homemade-tiles-blinking-worldexit.png-fec48939.png",
+    "imageheight" : 128,
+    "imagewidth" : 128,
+    "margin" : 0,
+    "name" : "Blinking_worldexit",
+    "spacing" : 0,
+    "tilecount" : 16,
+    "tileheight" : 32,
+    "tiles" : [ {
+      "animation" : [ {
+        "duration" : 1000,
+        "tileid" : 8
+      }, {
+        "duration" : 1000,
+        "tileid" : 2
+      } ],
+      "id" : 8
+    }, {
+      "animation" : [ {
+        "duration" : 1000,
+        "tileid" : 9
+      }, {
+        "duration" : 1000,
+        "tileid" : 3
+      } ],
+      "id" : 9
+    }, {
+      "animation" : [ {
+        "duration" : 1000,
+        "tileid" : 12
+      }, {
+        "duration" : 1000,
+        "tileid" : 6
+      } ],
+      "id" : 12
+    }, {
+      "animation" : [ {
+        "duration" : 1000,
+        "tileid" : 13
+      }, {
+        "duration" : 1000,
+        "tileid" : 7
+      } ],
+      "id" : 13
+    } ],
+    "tilewidth" : 32
+  } ],
+  "tilewidth" : 32,
+  "type" : "map",
+  "version" : 1.4,
+  "width" : 16
+}
