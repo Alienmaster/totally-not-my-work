@@ -1,3 +1,4 @@
+I only wanna run a bit through the congress for more days. If anything is yours and need to removed write a issue or me a mail:  mitachundkrach gmail com :)
 # WorkAdventure Map Starter Kit
 
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
