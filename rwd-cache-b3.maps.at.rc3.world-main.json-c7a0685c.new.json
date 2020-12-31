@@ -1,0 +1,360 @@
+{
+  "compressionlevel" : -1,
+  "editorsettings" : {
+    "export" : {
+      "format" : "json",
+      "target" : "main.json"
+    }
+  },
+  "height" : 20,
+  "infinite" : false,
+  "layers" : [ {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 69, 69, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 69, 69, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 20,
+    "id" : 3,
+    "name" : "start",
+    "opacity" : 1,
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 20,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 76, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 76, 76, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 76, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 20,
+    "id" : 8,
+    "name" : "rickrolling",
+    "opacity" : 1,
+    "properties" : [ {
+      "name" : "openWebsite",
+      "type" : "string",
+      "value" : "data:text/html;charset=utf-8;base64,PGh0bWw+PGJvZHkgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6ICMxMDBlMjM7IHRleHQtYWxpZ246IGNlbnRlcjsgZm9udC1mYW1pbHk6IE1vbnRzZXJyYXQsIEFyaWFsLCBzYW5zLXNlcmlmOyBjb2xvcjogI2ZmZmZmZjsiPjxzdHlsZT48L3N0eWxlPjxoMz5EdSB2ZXJsw6Rzc3QgZ2VyYWRlIGRhcyDCu1JDMy1HZWzDpG5kZcKrIGF1ZiBkaWUgVVJMPC9oMz48cCBzdHlsZT0iZm9udC1zaXplOiAyNHB4OyBmb250LXdlaWdodDogYm9sZDsgZm9udC1mYW1pbHk6IG1vbm9zcGFjZTsiPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZFF3NHc5V2dYY1EiIHN0eWxlPSJjb2xvcjogI2ZmZmZmZiI+aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1kUXc0dzlXZ1hjUTwvYT48L3A+PC9ib2R5PjwvaHRtbD4="
+    } ],
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 20,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 0, 0, 0, 0, 0, 0, 0, 0, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 0, 0, 0, 0, 0, 0, 0, 0, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 0, 0, 0, 0, 0, 0, 0, 0, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 0, 0, 0, 0, 0, 0, 0, 0, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 0, 0, 0, 0, 0, 0, 0, 0, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 0, 0, 0, 0, 0, 0, 0, 0, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 1101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 20,
+    "id" : 1,
+    "name" : "Tile Layer 1",
+    "opacity" : 1,
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 20,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5204, 5216, 5217, 5204, 5216, 5217, 5204, 5216, 5217, 5204, 5204, 5258, 0, 0, 0, 0, 0, 0, 0, 0, 5204, 5232, 5233, 5204, 5232, 5233, 5204, 5232, 5233, 5204, 5204, 5274, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5290, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5259, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5275, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5291, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 20,
+    "id" : 7,
+    "name" : "walls",
+    "opacity" : 1,
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 20,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5200, 5201, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5202, 5203, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 20,
+    "id" : 6,
+    "name" : "exitLayer",
+    "opacity" : 1,
+    "properties" : [ {
+      "name" : "exitUrl",
+      "type" : "string",
+      "value" : "rwd-cache-lobby.maps.at.rc3.world-maps-generic-tech.json-b0fe6206.new.json"
+    } ],
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 20,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "draworder" : "topdown",
+    "id" : 2,
+    "name" : "floorLayer",
+    "objects" : [ ],
+    "opacity" : 1,
+    "type" : "objectgroup",
+    "visible" : true,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4296, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4312, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4328, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2331, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2125, 0, 1, 0, 2136, 0, 0, 2331, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2126, 0, 1, 0, 2136, 0, 0, 2347, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2127, 0, 2, 0, 2132, 0, 0, 2363, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4179, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 20,
+    "id" : 4,
+    "name" : "furniture",
+    "opacity" : 1,
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 20,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4341, 4342, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 85, 0, 0, 0, 0, 4228, 4229, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 77, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2137, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 20,
+    "id" : 5,
+    "name" : "stuff",
+    "opacity" : 1,
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 20,
+    "x" : 0,
+    "y" : 0
+  } ],
+  "nextlayerid" : 9,
+  "nextobjectid" : 1,
+  "orientation" : "orthogonal",
+  "renderorder" : "right-down",
+  "tiledversion" : "1.4.3",
+  "tileheight" : 32,
+  "tilesets" : [ {
+    "columns" : 1,
+    "firstgid" : 1,
+    "image" : "rwd-cache-b3.maps.at.rc3.world-tiles-png-community-cert-imgs-furniture-37-desk-vertical-2.png-039697c5.png",
+    "imageheight" : 96,
+    "imagewidth" : 32,
+    "margin" : 0,
+    "name" : "37_desk_vertical_2",
+    "spacing" : 0,
+    "tilecount" : 3,
+    "tileheight" : 32,
+    "tiles" : [ {
+      "id" : 0,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 1,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    } ],
+    "tilewidth" : 32
+  }, {
+    "columns" : 8,
+    "firstgid" : 4,
+    "image" : "rwd-cache-b3.maps.at.rc3.world-tiles-png-community-cert-imgs-tilesheets-floortileset.png-0823adca.png",
+    "imageheight" : 256,
+    "imagewidth" : 256,
+    "margin" : 0,
+    "name" : "floortileset",
+    "spacing" : 0,
+    "tilecount" : 64,
+    "tileheight" : 32,
+    "tilewidth" : 32
+  }, {
+    "columns" : 9,
+    "firstgid" : 68,
+    "image" : "rwd-cache-b3.maps.at.rc3.world-tiles-png-community-cert-imgs-tilesheets-maputilities.png-22351675.png",
+    "imageheight" : 32,
+    "imagewidth" : 288,
+    "margin" : 0,
+    "name" : "mapUtilities",
+    "spacing" : 0,
+    "tilecount" : 9,
+    "tileheight" : 32,
+    "tilewidth" : 32
+  }, {
+    "columns" : 16,
+    "firstgid" : 77,
+    "image" : "rwd-cache-b3.maps.at.rc3.world-tiles-png-community-cert-imgs-tilesheets-food-and-drinks.png-a4907db4.png",
+    "imageheight" : 2048,
+    "imagewidth" : 512,
+    "margin" : 0,
+    "name" : "food_and_drinks",
+    "spacing" : 0,
+    "tilecount" : 1024,
+    "tileheight" : 32,
+    "tilewidth" : 32
+  }, {
+    "columns" : 16,
+    "firstgid" : 1101,
+    "image" : "rwd-cache-b3.maps.at.rc3.world-tiles-png-community-cert-imgs-tilesheets-leipzig-messe.png-80e65304.png",
+    "imageheight" : 2048,
+    "imagewidth" : 512,
+    "margin" : 0,
+    "name" : "leipzig_messe",
+    "spacing" : 0,
+    "tilecount" : 1024,
+    "tileheight" : 32,
+    "tilewidth" : 32
+  }, {
+    "columns" : 1,
+    "firstgid" : 2125,
+    "image" : "rwd-cache-b3.maps.at.rc3.world-couch-002.png-49cb3527.png",
+    "imageheight" : 96,
+    "imagewidth" : 32,
+    "margin" : 0,
+    "name" : "couch-002",
+    "spacing" : 0,
+    "tilecount" : 3,
+    "tileheight" : 32,
+    "tiles" : [ {
+      "id" : 0,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 1,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 2,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    } ],
+    "tilewidth" : 32
+  }, {
+    "columns" : 16,
+    "firstgid" : 2128,
+    "image" : "rwd-cache-b3.maps.at.rc3.world-tiles-png-community-cert-imgs-tilesheets-furniture.png-6f59abc7.png",
+    "imageheight" : 2048,
+    "imagewidth" : 512,
+    "margin" : 0,
+    "name" : "furniture",
+    "spacing" : 0,
+    "tilecount" : 1024,
+    "tileheight" : 32,
+    "tiles" : [ {
+      "id" : 1,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 2,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 3,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 4,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 5,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 6,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 7,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 8,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 203,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 219,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    } ],
+    "tilewidth" : 32
+  }, {
+    "columns" : 16,
+    "firstgid" : 3152,
+    "image" : "rwd-cache-b3.maps.at.rc3.world-tiles-png-community-cert-imgs-tilesheets-c3-deko.png-088b327f.png",
+    "imageheight" : 2048,
+    "imagewidth" : 512,
+    "margin" : 0,
+    "name" : "c3_deko",
+    "spacing" : 0,
+    "tilecount" : 1024,
+    "tileheight" : 32,
+    "tilewidth" : 32
+  }, {
+    "columns" : 16,
+    "firstgid" : 4176,
+    "image" : "rwd-cache-b3.maps.at.rc3.world-tiles-png-community-cert-imgs-tilesheets-misc.png-edf1e997.png",
+    "imageheight" : 2048,
+    "imagewidth" : 512,
+    "margin" : 0,
+    "name" : "misc",
+    "spacing" : 0,
+    "tilecount" : 1024,
+    "tileheight" : 32,
+    "tilewidth" : 32
+  }, {
+    "columns" : 2,
+    "firstgid" : 5200,
+    "image" : "rwd-cache-b3.maps.at.rc3.world-worldexit.png-89437a92.png",
+    "imageheight" : 64,
+    "imagewidth" : 64,
+    "margin" : 0,
+    "name" : "worldExit",
+    "spacing" : 0,
+    "tilecount" : 4,
+    "tileheight" : 32,
+    "tilewidth" : 32
+  }, {
+    "columns" : 16,
+    "firstgid" : 5204,
+    "image" : "rwd-cache-b3.maps.at.rc3.world-tiles-png-structures-rc3-mullana-floor-wall.png-64340827.png",
+    "imageheight" : 512,
+    "imagewidth" : 512,
+    "margin" : 0,
+    "name" : "rc3-mullana-floor-wall",
+    "spacing" : 0,
+    "tilecount" : 256,
+    "tileheight" : 32,
+    "tilewidth" : 32
+  } ],
+  "tilewidth" : 32,
+  "type" : "map",
+  "version" : 1.4,
+  "width" : 20
+}

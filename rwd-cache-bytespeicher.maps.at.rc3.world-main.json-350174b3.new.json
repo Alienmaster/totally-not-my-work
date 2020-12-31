@@ -1,0 +1,598 @@
+{
+  "compressionlevel" : -1,
+  "editorsettings" : {
+    "export" : {
+      "format" : "json",
+      "target" : "main.json"
+    }
+  },
+  "height" : 16,
+  "infinite" : false,
+  "layers" : [ {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 16,
+    "id" : 1,
+    "name" : "start",
+    "opacity" : 1,
+    "properties" : [ {
+      "name" : "startLayer",
+      "type" : "bool",
+      "value" : true
+    } ],
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 21,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1109, 1109, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1109, 1109, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1109, 1109, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1109, 1109, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1109, 1109, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1109, 1109, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 16,
+    "id" : 11,
+    "name" : "silent",
+    "opacity" : 1,
+    "properties" : [ {
+      "name" : "silent",
+      "type" : "bool",
+      "value" : true
+    } ],
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 21,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 55, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 16,
+    "id" : 6,
+    "name" : "jump_out",
+    "opacity" : 1,
+    "properties" : [ {
+      "name" : "exitUrl",
+      "type" : "string",
+      "value" : "rwd-cache-bytespeicher.maps.at.rc3.world-bytespeicher.json-3601b8db.new.json"
+    } ],
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 21,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 16,
+    "id" : 7,
+    "name" : "entrance",
+    "opacity" : 1,
+    "properties" : [ {
+      "name" : "startLayer",
+      "type" : "bool",
+      "value" : true
+    } ],
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 21,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 421, 422, 422, 422, 422, 422, 422, 422, 422, 422, 422, 422, 422, 422, 422, 422, 422, 422, 422, 422, 538, 421, 422, 422, 422, 422, 422, 422, 422, 422, 422, 422, 422, 422, 422, 422, 422, 422, 422, 422, 422, 538, 510, 511, 511, 512, 511, 512, 512, 511, 512, 512, 512, 511, 512, 512, 511, 512, 511, 512, 511, 512, 513, 510, 511, 512, 512, 541, 542, 512, 541, 542, 511, 541, 541, 542, 542, 541, 542, 541, 542, 541, 542, 513, 510, 541, 511, 512, 512, 541, 542, 541, 511, 511, 541, 511, 512, 511, 512, 511, 512, 511, 511, 512, 513, 510, 541, 541, 542, 542, 541, 541, 541, 541, 542, 512, 541, 542, 541, 542, 541, 542, 541, 541, 542, 513, 421, 422, 422, 422, 422, 422, 422, 511, 422, 422, 422, 422, 511, 422, 422, 422, 422, 422, 422, 422, 538, 0, 422, 422, 422, 422, 422, 422, 541, 422, 422, 422, 422, 541, 422, 422, 422, 422, 422, 422, 422, 538, 510, 512, 511, 512, 511, 512, 511, 512, 511, 512, 511, 512, 511, 512, 511, 512, 511, 512, 511, 512, 513, 510, 511, 512, 511, 512, 513, 28, 28, 421, 422, 511, 422, 422, 422, 422, 510, 541, 542, 511, 512, 513, 510, 541, 542, 541, 542, 513, 28, 28, 421, 422, 541, 422, 422, 422, 422, 510, 541, 542, 541, 511, 513, 510, 511, 512, 511, 512, 513, 28, 28, 510, 511, 511, 511, 511, 511, 512, 39, 541, 542, 511, 512, 513, 510, 541, 542, 541, 542, 513, 28, 28, 510, 541, 541, 541, 511, 541, 542, 39, 541, 542, 511, 512, 513, 510, 511, 512, 512, 512, 513, 28, 28, 510, 511, 512, 511, 512, 511, 512, 39, 511, 541, 511, 512, 513, 510, 541, 542, 542, 542, 513, 28, 28, 510, 541, 542, 541, 542, 541, 542, 39, 541, 541, 541, 542, 513, 39, 39, 39, 39, 39, 39, 55, 56, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39 ],
+    "height" : 16,
+    "id" : 4,
+    "name" : "bottom",
+    "opacity" : 1,
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 21,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 478, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 538, 478, 508, 508, 508, 508, 508, 508, 508, 508, 508, 508, 508, 508, 508, 508, 508, 508, 508, 508, 508, 538, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 508, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 478, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 538, 478, 508, 508, 508, 508, 508, 508, 300, 508, 508, 508, 508, 300, 508, 508, 508, 508, 508, 508, 508, 538, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 478, 0, 0, 0, 0, 0, 0, 538, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 478, 508, 300, 508, 508, 508, 508, 538, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 512, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 512, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 512, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 512, 0, 0, 0, 0, 0, 478, 0, 0, 0, 0, 538, 0, 0, 478, 0, 0, 0, 0, 0, 0, 509, 0, 0, 0, 0, 509 ],
+    "height" : 16,
+    "id" : 8,
+    "name" : "bottom2",
+    "opacity" : 1,
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 21,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 663, 664, 0, 0, 3078, 3079, 3078, 3079, 3078, 3079, 3078, 745, 746, 0, 0, 0, 0, 0, 0, 0, 692, 693, 694, 695, 0, 3081, 3082, 3081, 3082, 3081, 3082, 3081, 775, 776, 0, 0, 0, 0, 0, 0, 0, 722, 723, 724, 725, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 852, 0, 0, 760, 761, 762, 0, 0, 754, 755, 0, 816, 0, 1497, 0, 0, 0, 0, 0, 0, 0, 882, 0, 0, 790, 791, 792, 0, 0, 784, 785, 0, 843, 1398, 1399, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 749, 750, 0, 745, 746, 749, 750, 0, 0, 0, 0, 760, 761, 762, 0, 0, 0, 0, 0, 0, 0, 779, 780, 0, 775, 776, 779, 780, 0, 0, 0, 0, 790, 791, 792, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 685, 686, 729, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1610615808, 1610615812, 0, 0, 0, 715, 716, 729, 0, 0, 825, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1610615807, 1610615811, 0, 0, 0, 685, 686, 762, 0, 0, 855, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1610615806, 1610615810, 0, 0, 0, 715, 716, 792, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1610615805, 1610615809, 0, 0, 0, 0, 0, 0, 760, 761, 762, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 790, 791, 792, 0 ],
+    "height" : 16,
+    "id" : 5,
+    "name" : "furniture",
+    "opacity" : 1,
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 21,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "draworder" : "topdown",
+    "id" : 3,
+    "name" : "floorLayer",
+    "objects" : [ ],
+    "opacity" : 1,
+    "type" : "objectgroup",
+    "visible" : true,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3083, 3084, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3085, 3086, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 16,
+    "id" : 12,
+    "name" : "rc3worldExit",
+    "opacity" : 1,
+    "properties" : [ {
+      "name" : "exitUrl",
+      "type" : "string",
+      "value" : "rwd-cache-lobby.maps.at.rc3.world-maps-erfas-spaces-north.json-08867660.new.json"
+    } ],
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 21,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1047, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 16,
+    "id" : 10,
+    "name" : "openBlog",
+    "opacity" : 1,
+    "properties" : [ {
+      "name" : "openWebsite",
+      "type" : "string",
+      "value" : "data:text/html;charset=utf-8;base64,PGh0bWw+PGJvZHkgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6ICMxMDBlMjM7IHRleHQtYWxpZ246IGNlbnRlcjsgZm9udC1mYW1pbHk6IE1vbnRzZXJyYXQsIEFyaWFsLCBzYW5zLXNlcmlmOyBjb2xvcjogI2ZmZmZmZjsiPjxzdHlsZT48L3N0eWxlPjxoMz5EdSB2ZXJsw6Rzc3QgZ2VyYWRlIGRhcyDCu1JDMy1HZWzDpG5kZcKrIGF1ZiBkaWUgVVJMPC9oMz48cCBzdHlsZT0iZm9udC1zaXplOiAyNHB4OyBmb250LXdlaWdodDogYm9sZDsgZm9udC1mYW1pbHk6IG1vbm9zcGFjZTsiPjxhIGhyZWY9Imh0dHBzOi8vbWFrZXJzcGFjZS1lcmZ1cnQuZGUiIHN0eWxlPSJjb2xvcjogI2ZmZmZmZiI+aHR0cHM6Ly9tYWtlcnNwYWNlLWVyZnVydC5kZTwvYT48L3A+PC9ib2R5PjwvaHRtbD4="
+    } ],
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 21,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1047, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 16,
+    "id" : 18,
+    "name" : "openWiki_3D_Druck",
+    "opacity" : 1,
+    "properties" : [ {
+      "name" : "openWebsite",
+      "type" : "string",
+      "value" : "data:text/html;charset=utf-8;base64,PGh0bWw+PGJvZHkgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6ICMxMDBlMjM7IHRleHQtYWxpZ246IGNlbnRlcjsgZm9udC1mYW1pbHk6IE1vbnRzZXJyYXQsIEFyaWFsLCBzYW5zLXNlcmlmOyBjb2xvcjogI2ZmZmZmZjsiPjxzdHlsZT48L3N0eWxlPjxoMz5EdSB2ZXJsw6Rzc3QgZ2VyYWRlIGRhcyDCu1JDMy1HZWzDpG5kZcKrIGF1ZiBkaWUgVVJMPC9oMz48cCBzdHlsZT0iZm9udC1zaXplOiAyNHB4OyBmb250LXdlaWdodDogYm9sZDsgZm9udC1mYW1pbHk6IG1vbm9zcGFjZTsiPjxhIGhyZWY9Imh0dHBzOi8vd2lraS50ZWNobmlra3VsdHVyLWVyZnVydC5kZS9tYWtlcnNwYWNlOm1hc2NoaW5lbjozZC1kcnVja2VyOnN0YXJ0IiBzdHlsZT0iY29sb3I6ICNmZmZmZmYiPmh0dHBzOi8vd2lraS50ZWNobmlra3VsdHVyLWVyZnVydC5kZS9tYWtlcnNwYWNlOm1hc2NoaW5lbjozZC1kcnVja2VyOnN0YXJ0PC9hPjwvcD48L2JvZHk+PC9odG1sPg=="
+    } ],
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 21,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1047, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 16,
+    "id" : 14,
+    "name" : "openWiki_Lasercutter",
+    "opacity" : 1,
+    "properties" : [ {
+      "name" : "openWebsite",
+      "type" : "string",
+      "value" : "data:text/html;charset=utf-8;base64,PGh0bWw+PGJvZHkgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6ICMxMDBlMjM7IHRleHQtYWxpZ246IGNlbnRlcjsgZm9udC1mYW1pbHk6IE1vbnRzZXJyYXQsIEFyaWFsLCBzYW5zLXNlcmlmOyBjb2xvcjogI2ZmZmZmZjsiPjxzdHlsZT48L3N0eWxlPjxoMz5EdSB2ZXJsw6Rzc3QgZ2VyYWRlIGRhcyDCu1JDMy1HZWzDpG5kZcKrIGF1ZiBkaWUgVVJMPC9oMz48cCBzdHlsZT0iZm9udC1zaXplOiAyNHB4OyBmb250LXdlaWdodDogYm9sZDsgZm9udC1mYW1pbHk6IG1vbm9zcGFjZTsiPjxhIGhyZWY9Imh0dHBzOi8vd2lraS50ZWNobmlra3VsdHVyLWVyZnVydC5kZS9tYWtlcnNwYWNlOm1hc2NoaW5lbjpsYXNlcmN1dHRlciIgc3R5bGU9ImNvbG9yOiAjZmZmZmZmIj5odHRwczovL3dpa2kudGVjaG5pa2t1bHR1ci1lcmZ1cnQuZGUvbWFrZXJzcGFjZTptYXNjaGluZW46bGFzZXJjdXR0ZXI8L2E+PC9wPjwvYm9keT48L2h0bWw+"
+    } ],
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 21,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1047, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 16,
+    "id" : 15,
+    "name" : "openWiki_Holzwerkbank",
+    "opacity" : 1,
+    "properties" : [ {
+      "name" : "openWebsite",
+      "type" : "string",
+      "value" : "data:text/html;charset=utf-8;base64,PGh0bWw+PGJvZHkgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6ICMxMDBlMjM7IHRleHQtYWxpZ246IGNlbnRlcjsgZm9udC1mYW1pbHk6IE1vbnRzZXJyYXQsIEFyaWFsLCBzYW5zLXNlcmlmOyBjb2xvcjogI2ZmZmZmZjsiPjxzdHlsZT48L3N0eWxlPjxoMz5EdSB2ZXJsw6Rzc3QgZ2VyYWRlIGRhcyDCu1JDMy1HZWzDpG5kZcKrIGF1ZiBkaWUgVVJMPC9oMz48cCBzdHlsZT0iZm9udC1zaXplOiAyNHB4OyBmb250LXdlaWdodDogYm9sZDsgZm9udC1mYW1pbHk6IG1vbm9zcGFjZTsiPjxhIGhyZWY9Imh0dHBzOi8vd2lraS50ZWNobmlra3VsdHVyLWVyZnVydC5kZS9tYWtlcnNwYWNlOmFyYmVpdHNwbGFldHplOmhvbHp3ZXJrYmFuayIgc3R5bGU9ImNvbG9yOiAjZmZmZmZmIj5odHRwczovL3dpa2kudGVjaG5pa2t1bHR1ci1lcmZ1cnQuZGUvbWFrZXJzcGFjZTphcmJlaXRzcGxhZXR6ZTpob2x6d2Vya2Jhbms8L2E+PC9wPjwvYm9keT48L2h0bWw+"
+    } ],
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 21,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1047, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 16,
+    "id" : 16,
+    "name" : "openWiki_Loetplatz",
+    "opacity" : 1,
+    "properties" : [ {
+      "name" : "openWebsite",
+      "type" : "string",
+      "value" : "data:text/html;charset=utf-8;base64,PGh0bWw+PGJvZHkgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6ICMxMDBlMjM7IHRleHQtYWxpZ246IGNlbnRlcjsgZm9udC1mYW1pbHk6IE1vbnRzZXJyYXQsIEFyaWFsLCBzYW5zLXNlcmlmOyBjb2xvcjogI2ZmZmZmZjsiPjxzdHlsZT48L3N0eWxlPjxoMz5EdSB2ZXJsw6Rzc3QgZ2VyYWRlIGRhcyDCu1JDMy1HZWzDpG5kZcKrIGF1ZiBkaWUgVVJMPC9oMz48cCBzdHlsZT0iZm9udC1zaXplOiAyNHB4OyBmb250LXdlaWdodDogYm9sZDsgZm9udC1mYW1pbHk6IG1vbm9zcGFjZTsiPjxhIGhyZWY9Imh0dHBzOi8vd2lraS50ZWNobmlra3VsdHVyLWVyZnVydC5kZS9tYWtlcnNwYWNlOmFyYmVpdHNwbGFldHplOmxvZXRhcmJlaXRzcGxhdHoiIHN0eWxlPSJjb2xvcjogI2ZmZmZmZiI+aHR0cHM6Ly93aWtpLnRlY2huaWtrdWx0dXItZXJmdXJ0LmRlL21ha2Vyc3BhY2U6YXJiZWl0c3BsYWV0emU6bG9ldGFyYmVpdHNwbGF0ejwvYT48L3A+PC9ib2R5PjwvaHRtbD4="
+    } ],
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 21,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1047, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 16,
+    "id" : 17,
+    "name" : "openWiki_Bohrmaschine",
+    "opacity" : 1,
+    "properties" : [ {
+      "name" : "openWebsite",
+      "type" : "string",
+      "value" : "data:text/html;charset=utf-8;base64,PGh0bWw+PGJvZHkgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6ICMxMDBlMjM7IHRleHQtYWxpZ246IGNlbnRlcjsgZm9udC1mYW1pbHk6IE1vbnRzZXJyYXQsIEFyaWFsLCBzYW5zLXNlcmlmOyBjb2xvcjogI2ZmZmZmZjsiPjxzdHlsZT48L3N0eWxlPjxoMz5EdSB2ZXJsw6Rzc3QgZ2VyYWRlIGRhcyDCu1JDMy1HZWzDpG5kZcKrIGF1ZiBkaWUgVVJMPC9oMz48cCBzdHlsZT0iZm9udC1zaXplOiAyNHB4OyBmb250LXdlaWdodDogYm9sZDsgZm9udC1mYW1pbHk6IG1vbm9zcGFjZTsiPjxhIGhyZWY9Imh0dHBzOi8vd2lraS50ZWNobmlra3VsdHVyLWVyZnVydC5kZS9tYWtlcnNwYWNlOm1hc2NoaW5lbjpzdGFuZGJvaHJtYXNjaGluZSIgc3R5bGU9ImNvbG9yOiAjZmZmZmZmIj5odHRwczovL3dpa2kudGVjaG5pa2t1bHR1ci1lcmZ1cnQuZGUvbWFrZXJzcGFjZTptYXNjaGluZW46c3RhbmRib2hybWFzY2hpbmU8L2E+PC9wPjwvYm9keT48L2h0bWw+"
+    } ],
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 21,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1047, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 16,
+    "id" : 13,
+    "name" : "openWiki",
+    "opacity" : 1,
+    "properties" : [ {
+      "name" : "openWebsite",
+      "type" : "string",
+      "value" : "data:text/html;charset=utf-8;base64,PGh0bWw+PGJvZHkgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6ICMxMDBlMjM7IHRleHQtYWxpZ246IGNlbnRlcjsgZm9udC1mYW1pbHk6IE1vbnRzZXJyYXQsIEFyaWFsLCBzYW5zLXNlcmlmOyBjb2xvcjogI2ZmZmZmZjsiPjxzdHlsZT48L3N0eWxlPjxoMz5EdSB2ZXJsw6Rzc3QgZ2VyYWRlIGRhcyDCu1JDMy1HZWzDpG5kZcKrIGF1ZiBkaWUgVVJMPC9oMz48cCBzdHlsZT0iZm9udC1zaXplOiAyNHB4OyBmb250LXdlaWdodDogYm9sZDsgZm9udC1mYW1pbHk6IG1vbm9zcGFjZTsiPjxhIGhyZWY9Imh0dHBzOi8vd2lraS50ZWNobmlra3VsdHVyLWVyZnVydC5kZS9tYWtlcnNwYWNlOnN0YXJ0IiBzdHlsZT0iY29sb3I6ICNmZmZmZmYiPmh0dHBzOi8vd2lraS50ZWNobmlra3VsdHVyLWVyZnVydC5kZS9tYWtlcnNwYWNlOnN0YXJ0PC9hPjwvcD48L2JvZHk+PC9odG1sPg=="
+    } ],
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 21,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 509, 509, 630, 631, 632, 633, 509, 509, 509, 0, 509, 509, 509, 509, 509, 509, 660, 661, 509, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 509, 538, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 538, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 509, 509, 509, 509, 509, 719, 720, 509, 509, 509, 719, 720, 509, 509, 509, 509, 509, 509, 509, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 509, 0, 509, 509, 509, 509, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 509, 509, 509, 509, 0, 0, 0, 0, 509, 509, 509, 509, 509, 509, 0, 509, 509, 509, 509, 0 ],
+    "height" : 16,
+    "id" : 9,
+    "name" : "top0",
+    "opacity" : 1,
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 21,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 415, 416, 417, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 445, 446, 447, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1241, 1173, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1173, 1241, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "height" : 16,
+    "id" : 19,
+    "name" : "openKraemerloft-3D-Map",
+    "opacity" : 1,
+    "properties" : [ {
+      "name" : "openWebsite",
+      "type" : "string",
+      "value" : "data:text/html;charset=utf-8;base64,PGh0bWw+PGJvZHkgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6ICMxMDBlMjM7IHRleHQtYWxpZ246IGNlbnRlcjsgZm9udC1mYW1pbHk6IE1vbnRzZXJyYXQsIEFyaWFsLCBzYW5zLXNlcmlmOyBjb2xvcjogI2ZmZmZmZjsiPjxzdHlsZT48L3N0eWxlPjxoMz5EdSB2ZXJsw6Rzc3QgZ2VyYWRlIGRhcyDCu1JDMy1HZWzDpG5kZcKrIGF1ZiBkaWUgVVJMPC9oMz48cCBzdHlsZT0iZm9udC1zaXplOiAyNHB4OyBmb250LXdlaWdodDogYm9sZDsgZm9udC1mYW1pbHk6IG1vbm9zcGFjZTsiPjxhIGhyZWY9Imh0dHBzOi8vbXkubWF0dGVycG9ydC5jb20vc2hvdy8/bT1mTlhOUkpHUW5ydSZicmFuZD0wJnNyPS0xLjE3LDEuMjImc3M9MzciIHN0eWxlPSJjb2xvcjogI2ZmZmZmZiI+aHR0cHM6Ly9teS5tYXR0ZXJwb3J0LmNvbS9zaG93Lz9tPWZOWE5SSkdRbnJ1JmJyYW5kPTAmc3I9LTEuMTcsMS4yMiZzcz0zNzwvYT48L3A+PC9ib2R5PjwvaHRtbD4="
+    } ],
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 21,
+    "x" : 0,
+    "y" : 0
+  }, {
+    "data" : [ 144, 146, 146, 146, 146, 146, 146, 146, 146, 146, 147, 146, 146, 146, 146, 146, 146, 146, 146, 146, 148, 174, 0, 0, 0, 0, 0, 0, 0, 0, 0, 174, 0, 0, 0, 0, 0, 0, 0, 0, 0, 177, 177, 0, 0, 0, 0, 0, 0, 0, 0, 0, 174, 0, 0, 0, 0, 0, 0, 0, 0, 0, 177, 177, 0, 0, 0, 0, 0, 0, 0, 0, 146, 204, 0, 0, 0, 0, 0, 0, 0, 0, 0, 177, 177, 0, 0, 0, 0, 0, 0, 0, 0, 0, 177, 0, 0, 0, 0, 0, 0, 0, 0, 0, 177, 177, 0, 0, 0, 0, 0, 0, 0, 0, 0, 177, 0, 0, 0, 0, 0, 0, 0, 0, 0, 177, 205, 146, 146, 146, 146, 146, 146, 270, 146, 146, 146, 146, 270, 146, 146, 147, 146, 146, 146, 146, 204, 177, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 174, 0, 0, 0, 0, 177, 177, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 174, 0, 0, 0, 0, 177, 177, 0, 0, 0, 0, 144, 0, 0, 147, 146, 270, 146, 146, 146, 146, 204, 0, 0, 0, 0, 177, 177, 0, 0, 0, 0, 177, 0, 0, 177, 0, 0, 0, 0, 0, 0, 177, 0, 0, 0, 0, 177, 177, 0, 0, 0, 0, 177, 0, 0, 177, 0, 0, 0, 0, 0, 0, 177, 0, 0, 0, 0, 177, 177, 0, 0, 0, 0, 177, 0, 0, 177, 0, 0, 0, 0, 0, 0, 177, 0, 0, 0, 0, 177, 177, 0, 0, 0, 0, 177, 0, 0, 177, 0, 0, 0, 0, 0, 0, 177, 0, 0, 0, 0, 177, 177, 0, 0, 0, 0, 177, 0, 0, 177, 0, 0, 0, 0, 0, 0, 177, 0, 0, 0, 0, 177, 208, 146, 146, 146, 146, 207, 1083, 1019, 208, 146, 146, 146, 146, 146, 146, 145, 146, 146, 146, 146, 146 ],
+    "height" : 16,
+    "id" : 2,
+    "name" : "top",
+    "opacity" : 1,
+    "type" : "tilelayer",
+    "visible" : true,
+    "width" : 21,
+    "x" : 0,
+    "y" : 0
+  } ],
+  "nextlayerid" : 20,
+  "nextobjectid" : 1,
+  "orientation" : "orthogonal",
+  "renderorder" : "right-down",
+  "tiledversion" : "1.4.3",
+  "tileheight" : 32,
+  "tilesets" : [ {
+    "columns" : 8,
+    "firstgid" : 1,
+    "image" : "rwd-cache-bytespeicher.maps.at.rc3.world-tilesets-housetileset.png-ff5973dc.png",
+    "imageheight" : 448,
+    "imagewidth" : 256,
+    "margin" : 0,
+    "name" : "housetileset",
+    "properties" : [ {
+      "name" : "collides",
+      "type" : "bool",
+      "value" : true
+    } ],
+    "spacing" : 0,
+    "tilecount" : 112,
+    "tileheight" : 32,
+    "tiles" : [ {
+      "id" : 30,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 38,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 48,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 49,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 50,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 53,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 89,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 90,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 96,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 97,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    } ],
+    "tilewidth" : 32
+  }, {
+    "columns" : 30,
+    "firstgid" : 113,
+    "image" : "rwd-cache-bytespeicher.maps.at.rc3.world-tilesets-bskonf.png-9ab68c30.png",
+    "imageheight" : 508,
+    "imagewidth" : 962,
+    "margin" : 0,
+    "name" : "bskonf",
+    "spacing" : 0,
+    "tilecount" : 450,
+    "tileheight" : 32,
+    "tiles" : [ {
+      "id" : 31,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 32,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 33,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : false
+      } ]
+    }, {
+      "id" : 34,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 35,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 61,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : false
+      } ]
+    }, {
+      "id" : 62,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 63,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 64,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 65,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 91,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 92,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 93,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 94,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 95,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 395,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    } ],
+    "tilewidth" : 32
+  }, {
+    "columns" : 30,
+    "firstgid" : 563,
+    "image" : "rwd-cache-bytespeicher.maps.at.rc3.world-tilesets-bskonffurn.png-b23fac1b.png",
+    "imageheight" : 508,
+    "imagewidth" : 962,
+    "margin" : 0,
+    "name" : "bskonffurn",
+    "spacing" : 0,
+    "tilecount" : 450,
+    "tileheight" : 32,
+    "tiles" : [ {
+      "id" : 159,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 160,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 161,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    }, {
+      "id" : 191,
+      "properties" : [ {
+        "name" : "collides",
+        "type" : "bool",
+        "value" : true
+      } ]
+    } ],
+    "tilewidth" : 32
+  }, {
+    "columns" : 32,
+    "firstgid" : 1013,
+    "image" : "rwd-cache-bytespeicher.maps.at.rc3.world-tilesets-chaos-zone-shared.png-0093f55e.png",
+    "imageheight" : 2048,
+    "imagewidth" : 1024,
+    "margin" : 0,
+    "name" : "chaos_zone_shared",
+    "spacing" : 0,
+    "tilecount" : 2048,
+    "tileheight" : 32,
+    "tilewidth" : 32
+  }, {
+    "columns" : 4,
+    "firstgid" : 3061,
+    "image" : "rwd-cache-bytespeicher.maps.at.rc3.world-tilesets-ms-tiles-ef.png-23ba8771.png",
+    "imageheight" : 128,
+    "imagewidth" : 128,
+    "margin" : 0,
+    "name" : "MS_TILES_ef",
+    "spacing" : 0,
+    "tilecount" : 16,
+    "tileheight" : 32,
+    "tilewidth" : 32
+  }, {
+    "columns" : 3,
+    "firstgid" : 3077,
+    "image" : "rwd-cache-bytespeicher.maps.at.rc3.world-tilesets-stuff.png-307bdd57.png",
+    "imageheight" : 64,
+    "imagewidth" : 96,
+    "margin" : 0,
+    "name" : "stuff",
+    "spacing" : 0,
+    "tilecount" : 6,
+    "tileheight" : 32,
+    "tilewidth" : 32
+  }, {
+    "columns" : 2,
+    "firstgid" : 3083,
+    "image" : "rwd-cache-bytespeicher.maps.at.rc3.world-tilesets-worldexit.png-24420023.png",
+    "imageheight" : 64,
+    "imagewidth" : 64,
+    "margin" : 0,
+    "name" : "worldExit",
+    "spacing" : 0,
+    "tilecount" : 4,
+    "tileheight" : 32,
+    "tilewidth" : 32
+  } ],
+  "tilewidth" : 32,
+  "type" : "map",
+  "version" : 1.4,
+  "width" : 21
+}
